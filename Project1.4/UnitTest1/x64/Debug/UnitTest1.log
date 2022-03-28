@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+     Создается библиотека D:\Study\ООП\Project1.4\x64\Debug\UnitTest1.lib и объект D:\Study\ООП\Project1.4\x64\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "double __cdecl GetX(void)" (?GetX@@YANXZ) в функции "public: void __cdecl UnitTest1::UnitTest1::TestMethod1(void)" (?TestMethod1@UnitTest1@1@QEAAXXZ).
+    Указание на символы, которые определены и могут подойти:
+      "public: double __cdecl Complex::GetX(void)const " (?GetX@Complex@@QEBANXZ)
+D:\Study\ООП\Project1.4\x64\Debug\UnitTest1.dll : fatal error LNK1120: неразрешенных внешних элементов: 1
